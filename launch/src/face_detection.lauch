@@ -1,0 +1,3 @@
+<launch>
+ <node name="face_detection_node" pkg="tracker" type="face_detection.py" output="screen"/>
+</launch>
